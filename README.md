@@ -32,7 +32,7 @@ Ideal para entrenadores de equipos amateur, semi-profesionales o juveniles que d
 
 Descarga la aplicación **MyCoach para Android** (archivo `.apk`):
 
-👉 [Descargar MyCoach APK](https://github.com/tu-usuario/tu-repo/releases/latest)
+👉 [Descargar MyCoach APK](https://github.com/guillermoaccino/MyCoach/releases/v1.0.0)
 
 ---
 
